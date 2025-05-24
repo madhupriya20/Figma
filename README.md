@@ -205,8 +205,8 @@ Frame 4 – Thank You Page
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/69442aaa-3190-458e-98f0-5a5490123838)
 
-[figma2.pdf](https://github.com/user-attachments/files/20422552/figma2.pdf)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
